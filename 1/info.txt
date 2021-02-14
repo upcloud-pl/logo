@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Coiny-Regular
+font link: https://fonts.google.com/specimen/Coiny
+font author: Marcelo Magalhães
+font author site: http://www.marcelomagalhaes.net/
+Slogan Font: Coiny-Regular
+
+icon designer: Stockes Design
+icon designer link: /lisuryasaputra1997
+        
+
+fontColor: {"gradient-0":"#FFFFFF","gradient-1":"#0C26AA"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#FFFFFF","gradient-1":"#0C26AA"}
+sloganColor: {"hex":"#000000"}
+      
