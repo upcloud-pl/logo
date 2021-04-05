@@ -12,7 +12,7 @@
           
           
 # Logotyp upcloud.pl
-+ [Landing page: www.upcloud.pl](https://www.upcloud.pl/)
++ [WebPage](https://www.upcloud.pl/)
 + [Dokumentacja](https://docs.upcloud.pl/)
 + [Logo.upcloud.pl](https://logo.upcloud.pl/)
 
